@@ -31,3 +31,7 @@ git diff
 ```sh
 git checkout[id коммита]
 ```
+## 9. Вернуться к текущему состоянию ветки
+```sh
+git checkout master
+```

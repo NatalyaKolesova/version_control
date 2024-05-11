@@ -27,3 +27,7 @@ git log --oneline
 ```sh
 git diff
 ```
+## 8. Перейти к одному из коммитов
+```sh
+git checkout[id коммита]
+```

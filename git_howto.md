@@ -35,3 +35,11 @@ git checkout[id коммита]
 ```sh
 git checkout master
 ```
+## 10. Добавить картинку
+```sh
+git add [my picture] (my_picture.jpg)
+```
+## 11. Влить ветку в текущую
+```sh
+git merge [имя ветки]
+```

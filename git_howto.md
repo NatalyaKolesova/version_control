@@ -55,4 +55,13 @@ git checkout <имя ветки>
 ```sh
 git branch <branch_name>
 ```
+## 15. Удаление ненужной ветки
+```sh
+git branch -d <branch_name>
+```
+## 16. Графический просмотр веток в логе
+```sh
+git log --graph
+```
+
 

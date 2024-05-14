@@ -51,3 +51,4 @@ git branch
 ```sh
 git checkout <имя ветки>
 ```
+git 

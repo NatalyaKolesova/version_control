@@ -43,3 +43,7 @@ git add [my picture] (my_picture.jpg)
 ```sh
 git merge [имя ветки]
 ```
+## 12. Отображение всех веток
+```
+git branch
+```

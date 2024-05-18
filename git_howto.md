@@ -88,4 +88,5 @@ git pull
 ```sh
 git pull --rebase origin
 ```
+Конец!
 
